@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.c7c54da4-a4d1-11eb-8a3a-ccaf78d98162.jpg</filename>
+	<path>C:\Users\Administrator\PycharmProjects\sineRecognition\Tensorflow\workspace\images\collectedimages\thanks.c7c54da4-a4d1-11eb-8a3a-ccaf78d98162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>282</ymin>
+			<xmax>399</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

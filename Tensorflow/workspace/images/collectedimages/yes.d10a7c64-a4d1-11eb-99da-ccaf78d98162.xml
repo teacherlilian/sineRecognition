@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.d10a7c64-a4d1-11eb-99da-ccaf78d98162.jpg</filename>
+	<path>C:\Users\Administrator\PycharmProjects\sineRecognition\Tensorflow\workspace\images\collectedimages\yes.d10a7c64-a4d1-11eb-99da-ccaf78d98162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>262</ymin>
+			<xmax>371</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.afeb264c-a4d1-11eb-a610-ccaf78d98162 - 副本.jpg</filename>
+	<path>C:\Users\Administrator\PycharmProjects\sineRecognition\Tensorflow\workspace\images\collectedimages\hello.afeb264c-a4d1-11eb-a610-ccaf78d98162 - 副本.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>199</ymin>
+			<xmax>336</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>
